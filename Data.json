@@ -45,65 +45,65 @@
   "native_rate": 2,
 
   
-  "onesignal_id": "xxxxxxx",
+  "onesignal_id": "134262d6-55fb-4de6-bac3-1911ea149bd1",
   
 
   "guides": [
 	{
-	 "image": "xxxx",
-	 "title": "00",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://iili.io/J2oENkB.webp",
+	 "title": "helper Masha and the Bear mod 1",
+	 "text": "Masha discovers that the Enchanted Forest, where she often plays with her friends, is in need of a big cleanup",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 1
 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "11",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://iili.io/J2oEXrx.webp",
+	 "title": "helper Masha and the Bear mod 2",
+	 "text": " Trash has accumulated over time, and the magical creatures who live there are struggling with the mess. Concerned for her friends, Masha decides to take charge and become the Helper Masha.",
+	 "text_two": "",
 
 	 "isLocked": true,
 	 "id": 2
 	 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "22",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://iili.io/J2oEjdQ.webp",
+	 "title": "helper Masha and the Bear mod 3",
+	 "text": "Masha, with the support of her trusty Bear and other animal friends, embarks on a mission to clean up the Enchanted Forest and make it a cleaner, healthier place for everyone",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 3
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "33",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://iili.io/J2oEw7V.webp",
+	 "title": "helper Masha and the Bear mod 4",
+	 "text": "The cleanup journey is not only about picking up trash but also educating the magical creatures about the importance of keeping their environment clean and sustainable.",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 4
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "44",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://iili.io/J2oEOmP.webp",
+	 "title": "helper Masha and the Bear mod 5",
+	 "text": "Helper Masha encounters various challenges and learns valuable lessons along the way, teaching the young audience about responsibility, teamwork, and environmental stewardship",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 5
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "55",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://iili.io/J2oEkI1.webp",
+	 "title": "helper Masha and the Bear mod 6",
+	 "text": "Each episode could focus on different aspects of the cleanup process, such as recycling, composting, and reusing items. Additionally, Masha could create fun and imaginative ways to encourage the magical creatures to participate in the cleanup effort.",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 6
